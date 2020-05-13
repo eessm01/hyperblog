@@ -6,4 +6,4 @@ Texto en Markdown
             
 Este es el resultado del curso
                     
-> "My Hyperblog", [Link](http://localhost/)。
+> "My Hyperblog", [My Hyperblog](https://eessm01.github.io/hyperblog/blogpost.html)。
